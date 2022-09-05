@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/No-OnE-Kn0wS-Me/FileRenameBot/stargazers">
-    <img src="https://img.shields.io/github/stars/No-OnE-Kn0wS-Me/FileRenameBot?style=social">
+    <img src="https://img.shields.io/github/stars/Rajasekar118/FileRenameBot?style=social">
 
   </a>
   
@@ -29,7 +29,7 @@
 
 # Deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/No-OnE-Kn0wS-Me/FileRenameBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rajasekar118/FileRenameBot)
 
 # Required Strings :-
 
